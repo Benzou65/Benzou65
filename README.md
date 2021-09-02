@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Benzou65.
 - 👀 I’m interested in web devlopment.
 - 🌱 I’m currently learning digital transformation at Epitech school.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/lionel-bonzoumet/)
