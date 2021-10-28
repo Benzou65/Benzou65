@@ -9,6 +9,6 @@ JavaScript - TypeScript - Node.js - React - Next.js
 ### 🔗 API :
 Airtable - Notion - Auth0 - Sigfox - Google - AWS S3
 ### 🖌️ UI :
-Storybook - Material-UI - Bootstrap
+Storybook - Material-UI - Bootstrap - Chakra UI
 ### 🛠️ Tools :
 GitLab - GitHub - GitKraken - Notion - Trello - Postman
