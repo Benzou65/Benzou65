@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Benzou65.
-## 👀 I like to make beautiful web interfaces and connect all kinds of APIs.
+## �❤️ I like to make beautiful web interfaces and connect all kinds of APIs.
 ## 👨🏽‍💻 I’m currently learning digital transformation at [Epitech school](https://www.epitech.eu/).
 ## 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/lionel-bonzoumet/)
 
