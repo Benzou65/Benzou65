@@ -10,7 +10,7 @@
 ### ✍️ Languages & Frameworks :
 ```JavaScript - TypeScript - Node.js - React - Next.js```
 ### 🔗 API :
-```Airtable - Auth0 - Sigfox - Google - AWS S3 - Integromat```
+```Airtable - Auth0 - Sigfox - Google - Cenareo - AWS S3 - Integromat```
 ### 🛠️ Tools :
 ```GitLab - GitHub - GitKraken - Notion - Trello - Postman```
 ### 🖌️ UI :
@@ -18,8 +18,8 @@
 ### 🧪 Test :
 ```Jest - React Testing Library```
 ### 📦 Deployment :
-```Clever Cloud - Docker```
+```Docker - Clever Cloud```
 ### 📚 Documentation :
 ```Swagger - Storybook```
 ### 🧠 AI :
-```Spacy```
+```SpaCy```
