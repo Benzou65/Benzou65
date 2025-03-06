@@ -1,25 +1,6 @@
 # 👋 Hi, I’m @Benzou65.
-## Introduction :
-- 📍 I’m a software engineer based in Toulouse, 🇫🇷 France.
-- ❤️ I like to make beautiful web interfaces and connect all kinds of APIs
-- 🧠 I love also tweakering with artificial intelligence codes.
-- 👨🏽‍💻 I’m currently learning digital transformation at [Epitech school](https://www.epitech.eu/).
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/lionel-bonzoumet/)
+👨‍💻 A passionate web developer with over 4 years' experience, I started my career as a Fullstack developer before specialising in Frontend. This transition was motivated by my interest in the dynamism and complexity of the user interface.
 
-## Technical skills :
-### ✍️ Languages & Frameworks :
-```JavaScript - TypeScript - Node.js - React - Next.js```
-### 🔗 API :
-```Airtable - Auth0 - Sigfox - Google - Cenareo - AWS S3 - Integromat```
-### 🛠️ Tools :
-```GitLab - GitHub - GitKraken - Notion - Trello - Postman```
-### 🖌️ UI :
-```Material-UI - Bootstrap - Chakra UI```
-### 🧪 Test :
-```Jest - React Testing Library```
-### 📦 Deployment :
-```Docker - Clever Cloud```
-### 📚 Documentation :
-```Swagger - Storybook```
-### 🧠 AI :
-```SpaCy```
+🌐 My passion for technology drives me to stay at the forefront of industry trends. I devote time every day to technology watch, whether through blog posts, conferences or following opinion leaders on social networks.
+
+🏢 I'm currently part of an international team at the Chantelle lingerie group, where I work full remote. My role is to optimise the user experience across all their online shops, helping to create intuitive and engaging interfaces.
